@@ -3,4 +3,7 @@ Workshop and workflow understanding
 
 - This is a workshop repository
 - We will be adding all contributions to this repository.
+
 - Akanksha
+- Ritvi Mishra
+
