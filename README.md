@@ -5,5 +5,6 @@ Workshop and workflow understanding
 - We will be adding all contributions to this repository.
 
 - Akanksha
+- Ishita
 - Ritvi Mishra
 
